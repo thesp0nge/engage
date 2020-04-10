@@ -51,10 +51,12 @@ So I decide to start from scratch with revamped frameworks and technologies:
 
 * application will be divided in docker containers
 * bootstrap will be used for the UI
-* ruby on rails will be the framework of choice
-* grape gem will be used to create APIs if needed
+* django will be the framework of choice
+* flask will be used to create APIs if needed
 * a modular authentication and authorization approach will be followed,
   supporting (local credentials, LDAP, SAML SSO)
+
+So Engage will be a built from scratch project written in python version 3.
 
 And the main change is that the new codebase will be opensource. Since I
 consider this revamped engage as a new project the version will rollback to
